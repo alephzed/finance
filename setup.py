@@ -8,9 +8,9 @@ LONG_DESCRIPTION = 'A finance package to support discount cash flow and other va
 
 # Setting up
 setup(
-    name="vidstream",
+    name="finance",
     version=VERSION,
-    author="Herringbone Techmologies",
+    author="Herringbone Technologies",
     author_email="<mail@none.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
